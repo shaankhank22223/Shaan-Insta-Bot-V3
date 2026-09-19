@@ -10,8 +10,8 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "InstaBOT",
-  "prefix": "!",
+  "nickNameBot": "Shaan-Insta-BOT",
+  "prefix": ".",
   "noPrefix": true,
   "defaultOff": false,
   "adminOnly": {
@@ -19,15 +19,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "70161745815",
+    "100016828397863",
     ""
   ],
   "premiumUsers": [
-    "70161745815",
+    "100016828397863",
     ""
   ],
   "devUsers": [
-    "70161745815",
+    "100016828397863",
     ""
   ],
   "whiteListMode": {
@@ -47,7 +47,7 @@
     "autoRefreshThreadInfoFirstTime": true
   },
   "messageDelayMs": 200,
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/Karachi",
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
