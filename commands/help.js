@@ -102,7 +102,7 @@ module.exports = {
 			lines.push("╰────────────◊");
 		}
 		lines.push(`\n➥ Use: ${prefix}help [command] for details`);
-		lines.push(`👤 Dev: 𝐒𝐀𝐀𝐍 𝐄𝐗𝐇𝐀𝐔𝐒𝐓𝐄𝐃)`);
+		lines.push(`👤 Dev: 𝐒𝐇𝐀𝐀𝐍-𝐊𝐇𝐀𝐍)`);
 
 		const body = lines.join("\n");
 		let sent;
