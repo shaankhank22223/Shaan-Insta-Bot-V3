@@ -2,8 +2,8 @@
   "botName": "InstaBOT",
   "prefix": "-",
   "language": "en",
-  "adminBot": [70161745815],
-  "nickNameOnStart": "InstaBOT",
+  "adminBot": [100016828397863],
+  "nickNameOnStart": "Shaan-InstaBOT",
   "env": {
     "token": "
     "notes": "Optional secrets/endpoints for custom commands. Read from the environment when left blank (INSTABOT_TOKEN / INSTABOT_URL). Use them for a custom music server or any external API your commands call."
